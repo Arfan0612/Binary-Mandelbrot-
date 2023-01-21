@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1671731255 source:c:\users\arfan danial\onedrive - university of nottingham malaysia\year 2\software engineering\eeee2065_cw4\cw4.cpp
+	"CW4.h"
+
+1671714052 c:\users\arfan danial\onedrive - university of nottingham malaysia\year 2\software engineering\eeee2065_cw4\cw4.h
+	<iostream>
+	<cmath>
+
+1671731244 source:c:\users\arfan danial\onedrive - university of nottingham malaysia\year 2\software engineering\eeee2065_cw4\main.cpp
+	"CW4.h"
+
