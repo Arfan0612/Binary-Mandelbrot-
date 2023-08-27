@@ -1,5 +1,5 @@
 # Introduction
-Mandelbrot set represented as either 1 or 0. This program was coded using CodeBlocks IDE.
+Mandelbrot set represented as either 1 or 0. This program was coded using CodeBlocks IDE. The classes and functions are in the CW4.cpp file.
 
 # calcNxNy function
 
